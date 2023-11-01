@@ -1,3 +1,5 @@
 1 - git init
 2 - git remote add origin sizin-repository-url
 3 - Source controla kecid edib deyishikleri message hisseye yazib tiketi klik etdik ve 
+4 - 1 ci defe edirikse publish branch gelir ve eger daxil olmamishiqsa popup menu cixir
+5 - 2ci defe olduqda sync changes
